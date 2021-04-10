@@ -1,8 +1,9 @@
 /*
  * EEPROMEx 
- *
+ * )
  * Demonstrates reading, writing and updating data in the EEPROM
  * to the computer.
+ * Thijs Elenbaas, 2012-2017
  * This example code is in the public domain.
  */
 

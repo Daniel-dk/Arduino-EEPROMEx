@@ -4,6 +4,7 @@
  * Demonstrates the usage of EEPROMvar. A c++ OOP approach 
  * where a variable can store and restore itself from EEPROM
  * This example code is in the public domain.
+ * Thijs Elenbaas, 2012-2017
  */
 
 #include <EEPROMex.h>
